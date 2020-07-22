@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi I'm Seto (Sebastian  really) 🚀
 
-<!--
-**setohe0909/setohe0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sebastiantobon1/">
+  <img align="left" alt="Seto's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/setoohe/">
+  <img align="left" alt="Seto's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/setoohe">
+  <img align="left" alt="Seto's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm **Sebastian Tobon**, a **Developer** from Colombia ☕️
+
+### About me... 
+
+<img align="right" alt="GIF" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+```javascript
+const seto = {
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python],
+  tools: [
+    Vue,
+    Angular,
+    React,
+    Redux, 
+    Node, 
+    Storybook,
+    Styled-Components,
+    Jest,
+    Docker],
+}
