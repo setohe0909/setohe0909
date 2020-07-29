@@ -1,4 +1,4 @@
-### Hi I'm Seto (Sebastian  really) 🚀
+### Hi I'm Seto (Sebastian) 🚀
 
 <a href="https://www.linkedin.com/in/sebastiantobon1/">
   <img align="left" alt="Seto's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
