@@ -31,6 +31,7 @@ const seto = {
     Storybook,
     Styled-Components,
     Jest,
+    cypress,
     Docker],
 }
 ```
