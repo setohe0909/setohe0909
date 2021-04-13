@@ -32,7 +32,8 @@ const seto = {
     Styled-Components,
     Jest,
     cypress,
-    Docker],
+    Docker,
+    Figma],
 }
 ```
 
