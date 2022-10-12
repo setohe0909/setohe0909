@@ -4,9 +4,9 @@ Hi there, I'm **Sebastian Tobon**, a **Developer** from Colombia ☕️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setohe0909" alt="setohe0909" /> </p>
 
-### About me... 
+### About me 
 
-<img align="right" alt="GIF" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ```javascript
 const seto = {
@@ -20,11 +20,15 @@ const seto = {
     Storybook,
     Styled-Components,
     Jest,
+    flask,
     cypress,
     Docker,
     Figma],
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=setohe0909&show_icons=true" alt="setohe0909" /> </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=setohe0909&show_icons=true" alt="setohe0909" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=setohe0909&show_icons=true&locale=en&layout=compact"   alt="setohe0909" />
+ </p>
 
