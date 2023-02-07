@@ -20,8 +20,8 @@ const seto = {
     Storybook,
     StyledComponents,
     Jest,
-    flask,
-    cypress,
+    Flask,
+    Cypress,
     Docker,
     Figma],
 }
