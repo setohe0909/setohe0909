@@ -18,7 +18,7 @@ const seto = {
     Redux, 
     Node, 
     Storybook,
-    Styled-Components,
+    StyledComponents,
     Jest,
     flask,
     cypress,
