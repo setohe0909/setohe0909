@@ -1,3 +1,6 @@
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiantobon1/) 
+
 ### Hi I'm Seto (Sebastian) 🚀
 
 Hi there, I'm **Sebastian Tobon**, a **Developer** from Colombia ☕️
