@@ -13,10 +13,11 @@ Hi there, I'm **Sebastian Tobon**, a **Developer** from Colombia ☕️
 
 ```javascript
 const seto = {
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Rust],
   tools: [
     Vue,
     Angular,
+    NextJS,
     React,
     Redux, 
     Node, 
