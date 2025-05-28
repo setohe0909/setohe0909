@@ -16,7 +16,7 @@ Hi there, I'm **Sebastian Tobon**, a **Developer** from Colombia ☕️
 
 ### About me 
 
-<img align="right" alt="GIF" width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" width="40%" src="https://github.com/user-attachments/assets/8ba2bdf4-1fe5-4930-a45c-b8c0fc2afb79" />
 
 ```javascript
 const seto = {
@@ -42,4 +42,5 @@ const seto = {
   <img src="https://github-readme-stats.vercel.app/api?username=setohe0909&show_icons=true" alt="setohe0909" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=setohe0909&show_icons=true&locale=en&layout=compact"   alt="setohe0909" />
  </p>
+
 
