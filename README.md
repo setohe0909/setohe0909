@@ -20,7 +20,16 @@ Hi there, I'm **Sebastian Tobon**, a **Developer** from Colombia ☕️
 
 ```javascript
 const seto = {
-  code: [CSS, HTML, Golang, Javascript, PHP, Python, Rust, Typescript ],
+  code: [
+    CSS,
+    HTML,
+    Golang,
+    Javascript,
+    PHP,
+    Python,
+    Rust,
+    Typescript
+  ],
   tools: [
     Vue,
     Angular,
