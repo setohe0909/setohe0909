@@ -34,6 +34,7 @@ const seto = {
     Vue,
     Angular,
     NextJS,
+    NestJS,
     React,
     Redux, 
     Node, 
