@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s3t0/) 
+
 
 ## Elsewhere
 <a href="https://cal.com/sebastian-tobon-r4pwfu">
